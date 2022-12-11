@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+This project uses code from https://github.com/mdn/todo-react (was not directly forked due to dependency issues)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
